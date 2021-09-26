@@ -7,18 +7,18 @@
 
   <script src="https://kit.fontawesome.com/b0d34bd04d.js" crossorigin="anonymous"></script>
 
-  <link href="/public/style.css" rel="stylesheet">
-
+  <link href="../public/style.css" rel="stylesheet">
 
 </head>
 
-<body class="body">
-  <div class="wrapper">
-    <div class="header">
-      <h1><i class="fas fa-trash-alt"></i> Przyjęcia Odpadów</h1>
-
+<body>
+  <header>
+    <div class="container-fluid p-4 bg-cadetblue mb-2">
+      <h1><i class="fas fa-trash-alt pr-2"></i>Przyjęcia Odpadów</h1>
     </div>
+  </header>
 
+  <div class="wrapper">
     <div class="container">
       <div class="menu">
         <ul>
