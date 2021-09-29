@@ -12,7 +12,6 @@ header .bg-cadetblue {
 
 
 
-
 body {
   font-family: 'Montserrat', sans-serif;
   color: #333;
@@ -29,7 +28,6 @@ body {
   min-height: 100vh;
 
 }
-
 
 h1 {
   font-size: 44px;
@@ -176,43 +174,7 @@ form>div:first-child>label:first-child>input:focus {
   flex-grow: 1;
 }
 
-.menu {
-  width: 20%;
-  background-color: white;
-}
 
-.menu ul {
-  list-style: none;
-}
-
-.menu ul a {
-  display: block;
-  color: cadetblue;
-  font-size: 18px;
-  text-transform: uppercase;
-  padding: 16px 0;
-  text-decoration: none;
-}
-
-.menu ul a:hover {
-  font-weight: bold;
-}
-
-.page {
-  width: calc(80% - 20px);
-  margin-left: 20px;
-}
-
-.footer {
-  margin-top: 20px;
-  background-color: cadetblue;
-  padding-bottom: 30px;
-}
-
-.footer p {
-  text-align: center;
-  color: #ddd;
-}
 
 
 .list {
